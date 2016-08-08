@@ -1,2 +1,2 @@
-# Module Server Tests
-Provides tests for Module Server.
+# Module Server Examples
+Provides module examples for Module Server.
