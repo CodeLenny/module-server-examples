@@ -1,0 +1,15 @@
+{
+  "name": "@codelenny/module-server-examples",
+  "version": "0.0.0",
+  "description": "Provides module examples for Module Server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeLenny/module-server.git"
+  },
+  "author": "Ryan Leonard (http://ryanleonard.us)",
+  "license": "MIT"
+}
