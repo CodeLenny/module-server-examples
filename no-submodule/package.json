@@ -1,0 +1,11 @@
+{
+  "name": "no-submodule",
+  "version": "1.0.0",
+  "description": "Example module for Module Server that doesn't have any dependencies.",
+  "main": "public/NoSub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
