@@ -1,6 +1,6 @@
 {
   "name": "@codelenny/module-server-examples",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Provides module examples for Module Server.",
   "main": "public/ModuleServerExample.js",
   "scripts": {
